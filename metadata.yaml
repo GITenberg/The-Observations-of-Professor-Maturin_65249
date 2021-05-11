@@ -1,11 +1,16 @@
 _repo: The-Observations-of-Professor-Maturin_65249
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65249-h/images/cover.jpg
 creator:
   author:
     agent_name: Furst, Clyde
     gutenberg_agent_id: '53252'
     url: http://www.gutenberg.org/2009/agents/53252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65249#The-Observations-of-Professor-Maturin
 gutenberg_issued: '2021-05-04'
 gutenberg_type: Text
 identifiers:
